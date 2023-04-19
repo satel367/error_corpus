@@ -1,0 +1,55 @@
+Кристина Филатова 
+B1
+2
+
+I am not sure what you mean by regular
+
+This month <I’ve been at concert> [GR];[Prep]_[Functions]{2}
+
+<I can use just google map, but usually I use just regular sites>[Syntax];[Repetition]{1}
+
+I am gonna  talk
+
+Thank you for this nice attitude
+
+We are going <to do mobile app>[LEX];[Collocation]_[VerbNoun]{1}
+
+We <actually not really familiar with>[GR];[Auxiliary]_[Missing Auxiliary]{1} our users in terms of using <such kind of app>[GR]; [Determiner] <in their visiting> [GR];[Prep]_[Function]{1}/[LEX];[Word Formation]{2}
+
+I would like to ask you to do user experience research
+
+Let me <start with constraint>[GR};[IndefArt]{1}. We <have constraint>[GR];[IndefArt]{1} in terms of <constraint of time>[Syntax];[Repetition]{1}. We have time limitation, we have just 2 weeks to do this research and have some results
+
+I understand that and I will be happy to help you <to do the things done>[GR];[Causative{2} <in this time>[GR]; [Prep]_[Time] {1}.
+
+<Do you have <this period time free>?>[Syntax];[SentStr]{2}
+
+Actually, I have some notes already. Let me show you.
+
+<What we would like to know: we are not really familiar with our visitors> [Syntax];[ClauseCorrelation]{2}.
+
+<I expect to do groups not by demographic things>[NegativeForm]{1}/[LEX];[Collocation]_[VerbNoun]{1} but maybe <by their visiting>[LEX];[Word formation]{1}. And what I mean here: we can
+
+I guess we have no budget for certificates.
+
+I guess at first glance it might <be pretty wild interview>[GR];[IndefArt]{1}. <I mean about their experience> [GR];[Extra Preposition]{2} in general. About the museum. What problem they have, what pain points they have.
+
+You mentioned that’s about the museum.
+
+I am not sure if I heard it correctly.
+
+I invite you here today <to share research result>[GR];[IndefArt]{1}. <Which conducted our team in past weeks.>[Syntax];[WordOrder]{2}/[GR];[DefArt] {1}We had 10 interviews.
+
+We don’t see the opening hours.
+
+They would like to share information with friends, but it’s pretty hard for them.
+
+And I would like to formulate here a short story, as we can see it.
+
+<What is your ideas?>[GR];[Auxiliary]_[Form]{1} <What could share with me>[Syntax];[MissingSubj]{2}
+
+<I guess I would like>[GR];[Short answer]
+
+It would be nice if you could <do the prototypes>[LEX];[Collocation]_[VerbNoun]{1} <the next week on Friday>[GR];[ZeroArt]{1}.
+
+<We will send it to our customers.>[GR];[WrongPronoun]{2}

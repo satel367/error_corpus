@@ -1,0 +1,65 @@
+Александр Боярский
+B1
+1
+
+I’ve been told about it.
+
+<Which do you prefer to listen music?> [GR]; [Word order]_[Question]
+
+It came to Russia not too <many time>[GR]; [Quantifier] ago. 
+
+<The wave is learning on my performance.> [LEX]; [Wrong word]/[GR]; [Prep]_[After verb]
+
+We have some problems with payed subscriptions
+
+<The main activity is to watch>[GR]; [Gerund] some films with English subtitles.
+
+It was at school: quite good preparation.
+
+I was studying with <**the England** professor>[GR]; [Art]_[IndefArt]/[LEX]; [Adj]_[Nationality] 
+
+In 2023 <I decided that it’s time to remember> [GR];[Sequence of tenses] everything.
+
+I am great I am speaking from <pretty sunshining room.> [LEX];[Word formation]_[Adj] <There are a lot of sun.> [GR]; Subject-verb agreement] What about you?
+
+It sounds great. I’ve never been in India, but I would like to go. To my mind <it’s really interesting country>[GR]; [Art]_[IndefArt]  in a cultural way.
+
+Actually, we are going to talk about our product in next few minutes.
+
+I am your new product manager.
+
+<I decide to join> [GR];[Tense]_[PastS] your company.
+
+<It’s great opportunity> [GR]; [Art]_[IndefArt] for me <to grow your company.>[GR]; [Prep]
+
+So, <it’s great opportunity for me>[GR]; [Art]_[IndefArt] to my mind and I could be very useful with my experience with projects in my past.
+
+Could you please introduce yourself.
+
+This is SDK which you need to install in your app.
+
+It was really interesting and useful for me.
+
+<The main mean of this meeting>[LEX]; [Wrong word] is to discuss the plans.
+
+Maybe it is necessary <in future>[GR];[Art]_[DefArt]
+
+<No one can get inside of our timings.>[LEX]; [Wrong word] To my mind it could be really useful for us.
+
+<It’s so uneffective> [LEX];[Word formation]_[Adj]  that <we have to have more 12 months of selling> [GR];[Word order]_[Misplaced adverb] to make profit.
+
+<**With help** of>[GR];[Art]_[DefArt] good arguments I have <to change the tone of answer>[GR];[Art]_[DefArt]
+
+To my mind **<it’s actually important problems>**[GR];[Subject-verb agreement], which you mentioned.
+
+I am sure that we can handle it. To my mind, <speaking for leadership>[GR]; [Prep]_[After verb], <what we can make> [LEX];[Wrong word]_[Verb]. The time: <we can make flexible>[LEX];[Wrong word]_[Verb] if you need some more research.
+
+Moreover to my mind as a product manager I think <all this processes will go through me>[GR]; [Wrong pronoun]_[DemonstrPrn]/[LEX]; [PhrasV] and <I am as a gate> [LEX];[Redundancy]/[LEX]; [Wrong word]_[Noun] will argue with management and I will try to make this part much more convenient.
+
+Moreover, privatization. Deep learning **is only** way to succeed. <To success **in future> [LEX];** [Wrong word]_[Verb]/[GR]; [Art]_[DefArt]
+
+Well maybe one more thing that I wanted to discuss. Maybe you have some propositions. No. Ideas how we can improve our processes **<in team>**[GR]; [Art]_DefArt]**?**
+
+I actually <set up meeting.> [GR];[Art]_[IndefArt]  It was really hard as the product was <in her responsibility>[GR];[Prep]_[Extra prep]. And it was really hard to make her believe in my idea. But <with help of data>[GR];[Art]_[DefArt] I actually showed her that our sales are really low and it’s so ineffective to have more years of selling just to get profit.
+
+<There **was** a lot of questions>[GR];[Subject-verb agreement] from her side. I had to change the tone of voice and answer her questions. And she agreed with my position. <**With help** of>[GR];[Art]_[DefArt] this meeting, we managed to save a lot of money for this company.

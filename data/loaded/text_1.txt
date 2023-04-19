@@ -1,0 +1,44 @@
+Полина Данилова
+B1
+1
+Speaking is hard because I <don't have practice for a long time> [GR];[Tense]_[PresPerf]{1}.
+
+I am not nervous when I go to my work and meetings but I am nervous while studying.
+
+<It's something like new experience although because of the English> [GR];[Art]_[ZeroArt]{1} maybe. Hi, nice to see you here. 
+
+<At my previous job I manage couple of cross-functional teams also included like a product analysts> [GR];[Tense]_[PastS]{1}/[GR];[Art];[ZeroArt]{1}/[Syntax];[CompS]_[Defining Clause]{2}. <By myself I really like analysis> [LEX];[Collocation]{1} and I really like checking numbers, dashboard…
+
+<When you mention that>[GR];[Tense]_[PastS]{2} you like to work closely with customer analysis, customer needs….I think that it's really important and I hope that we can work together in this area.
+
+<I think like the main time I want to work remotely>[LEX];[Collocation]{1} but I plan to go to office maybe couple time per month because that is really important like to be with the team. <I will gather all the team together when I will be in office> [GR];[Art]_[DefArt]{1}/[GR];[RelCl]_[Clause of time and condition]{1}.
+
+The Thorn Birds <Thorn Birds> [Pron];[th as s]_[Sorn]{1} … yes, by Colleen McCullough or <it not pronounce> [GR];[Passive Voice]{2}/[GR];[Word order]_[Question]{1} like that.
+
+I think I have a little bit of Chinese accent because <I learn English in China also when, while preparing IELTS!> [GR];[Tense]_[PastS]{1}/[Syntax];[SentStr];[MissingConj]{2}/[LEX];[Prep]_[Missing prep]{1}
+
+I know! Shall we get started with our agenda?
+
+If <you are analysist> [LEX];[Word formation]_[Noun]{2} ****yes, <I want to know ****more about which platforms, which programs, which like analysis stuff do you use> [GR][Word order]_[Reported question]{1} and <which dashboards do you like to look> [GR];[Prep]_[Missing prep]{1} every day and what is ****like about DVH in the company. Etcetera.
+
+<How do you think> [LEX];[Wrong word]_[Question word]{1}, if our company really has like a <data-driven> [PRON];[Individual sound]_[draiven]{1} process or data driven culture? So if management they have like…  <they really like to look on the data> [GR];[Prep]_[After verb]{1}. They have for example some meetings in which we are data etc. So what do you think about data-driven culture in our company?
+
+So like here we have a culture like to put clients front and center, clients needs front and center.
+
+I think that <I have a lot of experience to managing difference stakeholders> [GR];[Prep]_[After noun]{1} or managing different like leader’s needs because every time we are preparing some analysis, data or some new features a lot of people will come to us and <ask us to do it like quicklier> [LEX];[Word formation]_[Adv]{1}. So like at my role here to protect the team, and to like let the stakeholders know that we do it in our own way. So <we definitely will provide them the results> [GR];[Verb pattern]{1}. So like <don't let us do it quicklier> [LEX];[Wrong word]_[Causative verb]{2}/[LEX];[Word formation]_[Adv]{1}.
+
+For them I was not very nice. I think my team don't think I am very nice, friendly person. I think that I am very strict and sometimes maybe <new members of our team are afraid to direct me or message me on person> [LEX];[Wrong word]_[Verb]{2}/[LEX];[Wrong word]_[Adv]{1}. It was important to protect them but don't let them know that I protect them! <I quit a job> [GR];[Art]_[DefArt]{1} and I really miss my teams**.** For me <it was like a loose> [LEX];[Wrong word]_[Noun]{2} . Yes, it was like a breakup. I was there for a year and a half and I think that the best part of my previous work was people. 
+
+<I have a doubt> [GR];[Singular\plural noun]{1}. Maybe I didn't ask ****relevant questions.
+
+It was a micro financial company so <we need to make> [GR];[Tense]_[PastS]{1} an identification for our clients and in  Russia we have…  we had like two types of identification: like <the full one is need clients to upload their five photos> [GR];[Passive voice]{1}/[GR];[Prep]_[Missing prep]{2} of their passport and one of the photos is the client visa passport. And it was very hard for our clients to upload 5 photos. And so our conversion one step was very bad. I had an idea, <I made legal research> [LEX];[Collocation]_[Verb Noun]{1} and found out that <we just need to upload> [GR];[Tense]_[PastS]{1} two of the photos. I had one to one meetings with our legal department director and <I need to insist her that it is a good idea> [GR];[Tense]_[PastS]{1}/[GR];[Sequence of tenses]{1}/[LEX];[Wrong word]_[Verb]{2} and it will help us to make our business results better. And it can be okay for the Russian Central Bank, who is determining our business. Like our legal business. So it was a hard presentation but I gave her some data, I gave her some documents and <I insisted her that it will be a good idea>[TenseAgreement]. So we <made a couple of meetings>[LEX];[Collocation]{1} and <we insisted other stakeholders that it can works> [LEX];[Wrong word]_[Verb]{2}/[GR];[Modal verb]_[Bare infinitive]{1}/[GR];[Sequence of tenses]{1}. After we implemented it, <our conversion was better for 50%> [GR];[Prep]_[Function]{1}
+
+This five photo identification was ****like the main part of our online credit platform and I was very happy that I could change it.
+
+<They don't want Centrabank close us>[GR];[Complex Object]{1}.
+
+So all good ideas usually is…  are from business department.
+
+I think <I have two stories to answering the most of your questions> [GR];[Prep]_[Noun correlation]{1}. <We had a time when our manager ****want ****us> [GR];[Sequence of tenses]{1} to jump to the agile. So <they want ****us implement agile to our work> [GR];[Tense]_[PastS]{1}/[GR];[Complex Object]{1}. So they hired a scrum-master! <Every meeting he just said ****us that> [GR];[Verb pattern]{1} our company is shit, that it's not good. So my team they started.. They were depressed. So <they don't like him> [GR];[Tense]_[PastS]{1} but <they started to rely on him on ****some way> [LEX];[Collocation]{1}. And after that <I tried to had couple of conventions with him> [GR];[Infinitive]{1} and I think we had like a conflict with him because <he want me to give him more time> [GR];[Tense]_[PastS]{1} and <I don't want him to ruin my team> [GR];[Tense]_[PastS]{1}. So we had a lot of conversations and afterwards we just fired him. It wasn't a full story…  I think <that time we just can't do anything, real work> [GR];[Tense]_[PastS]{1}/[GR];[Wrong pronoun]_[IndefinPrn]{1}. <They just think about what they are doing and not doing something.> [GR];[Tense]_[PastCont]{1}/[GR];[Wrong pronoun]_[IndefinPrn]{1}
+
+<He just blaming others every single moment> [GR];[Tense]_[PastS]{1}, because you know, the interesting thing. <When he has a meeting with a management> [GR];[Tense]_[PastS]{1}/[GR];[Art]_[DefArt]{1}, with some tops <he blame the teams> [GR];[Tense]_[PastS]{1}. So <he don't usually say that company is bad, for them he usually says that teams are bad> [GR];[Tense]_[PastS]{1}/[GR];[Sequence of tenses]{1}/[GR];[Prep]_[After verb]{1}. Developers are bad. And <for the developers he said> [GR];[Prep]_[After verb]{1} that the company are bad. <It didn’t success> [LEX];[Wrong word]_[Verb]{1}. Now I know that <not every time that you want to change anything you can do it> [GR];[Wrong pronoun]_[IndefinPrn]{1}

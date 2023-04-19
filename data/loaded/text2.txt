@@ -1,0 +1,20 @@
+Александра Маранц
+B1
+1
+9.00 I think [PRON];[individual sound]_[th as s] everything is.. Soryvi have trouble with English this day. Give me one second to think about  <words>[PRON];[individual sound]_[o as e]/[GR];[Art]{1} I think I understand everything and we can start.
+
+The main goal of <this>[PRON];[individual sound]_[th as z] research is <understanding>[GR];[Art]{1} if we need an application or not and if <need it will it address>[LEX];[Redundancy] {3}the users pain points. The objective of the research is to find  <common pain points>[GR];[Art] {1} for museum visitors and to understand the factors that affect a decision making process. The constraints of the research is time and <budget>[PRON];[individual sound]_[u as u] .We have very little time. <The>[PRON];[individual sound]_[th as z] research should be finished in two weeks and we have very limited <budget>[PRON];[u as u] so the research should be as cheap as possible.
+
+12.49 I have two variants of the methods for the UX-research. The first one is  <to survey on>[GR];[Prep]_[ExtraPrep]{2} the social networks and  <the next two one>[GR];[Determiner]{1} is to make some face-to-face interviews. I think the UX-researcher knows better and if he <said>[PRON];[individual sound]_[d as t] that the survey is cheaper and faster let it be so. My main <goal to get >[GR];[Tenses]_[PresentS] {1} as fast and as cheap as possible. To understand should we do an application for museum visitors. And what  <pain points will it close>[LEX];[WrongWord]_[IncorrectMeaning]{2}.
+
+I <think>[PRON];[individual sound]_ [th as s] the best variant we can do is to speak with our visitors in the museum. So we can stay near the exit from the museum and ask everyone who comes out something like: "Sorry, would you answer some question please? It will help us and it will show  
+<is the right direction>[LEX];[Redundancy]{1} ."
+
+16.40 On the one hand yes I see the problem and we have no time for lots of deep interviews, but on the another hand  <I not sure>[GR];[Tenses]_[PresentSimple]{1} that we really need it. Our main goal is to understand if there are any problems we can solve with the app. And if we see that yes,  there are some problems I <think> [PRON];[individual sound]_[th as s] we will have the next UX-research with lots of deep interviews to fund how can we save this problem and what <things>[PRON];[individual sound]_ [th as s] people  <try now>[GR];[Tenses]_[PresentCont]{1}  to solve it. And now we need just to understand  <what's going wrong>[LEX];[Collocation]{2}  
+<with>[individual sound]_ [th as f] our customers. For example if  <their>[GR];[Pronoun} {2} <said>[individual sound]_[  as i] that  <museum are boring>[GR];[Noun]_[Plural]{1} we can't do anything <with>[PRON];[individual sound]_[th as f] our app. So I think the first votes, our research shouldn't be really deep. It is just < to become making>[LEX];[Redundancy]{2}/[GR];[Infinitive]{1} the whole picture of the situation.
+
+I think first of all  <we need meeting>[GR];[Art]{1} in which we will discuss <all our road map>[GR];[Noun]_[Plural]{1}. We will tell all the team what we want, what's our goal, why our deadlines are so important for us! During this meeting we will give the team <and opportunity to ask>[GR];[Art]_[ConjInstedArt]{2} all questions the have. And also on it we will talk who will do the work, in what deadlines and how often we will communicate with them to speak about results.
+
+20.00 I am not sure that we will find two <senior>[PRON];[stress] researchers and I think that we can take a little bit more time to give our researchers an opportunity to speak with each other, to work with each other, to discuss all the opinions about the work to make the communication and the work as good as possible.
+
+22.40 I think the good question would be to ask a user to walk.. to what the last time he visited museum and after it will have some information to ask other questions. What <he like> [GR];[Tenses]_[PastSimple] {1} in this visit and what points disappointed him, how often he goes to the museums and how <does museums fit>[GR];[Auxiliary]_[ExtraAux]{2} in with his all life.

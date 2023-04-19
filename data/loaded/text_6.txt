@@ -1,0 +1,52 @@
+Алиса
+B1
+
+Oh , my weekend was great. I am currently <at Thailand and at the long weekend>[GR];[Prep]_[Function]{2}, because we have <a government celebration> [LEX];[Wrong word]_[Noun]{2} in my country. I <work in Russian company> [GR];[Art]_[IndefArt] {1}, so <we have the long weekend>[GR]; [Art]_[IndefArt] {1} 4 days and <I came at the island> [GR];[Prep]_[Function]{1} to see my sister and <we have a great time there> [GR]; [Tense]_[PresCont]{2}. <We are going to the beach with books and just chill.>[GR];[Tense]_[PresS]{2}
+
+How was your weekend?
+
+It’s hot. It’s always the same every day. It’s hot, it’s sunny.
+
+What is the sphere of your volunteer job?
+
+<I usually just nothing special.>[GR];[Word order]_[Missing verb]{3} I like reading books, I practice yoga, and with my husband we like to watch movies.
+
+<At the last couple of months>[GR];[Prep]_[Function] <I liked some space theme> [GR];[Art]_[DefArt]{1}. I like to watch movies about space , different planets. It is interesting to me.
+
+I would recommend you “Ad Astra”. It’s with Brad Pitt. There are interesting futuristic technologies <in those movie>[GR]; [Wrong pronoun]_[DemonstrPrn]{1}.
+
+<It’s something which make your eyes feel good.> [GR];[Subject-verb agreement]{1}
+
+My sister also recommend me <those movie.>[GR]; [Wrong pronoun]_[DemonstrPrn]{1}
+
+It’s you know <a spread variety.> [LEX]; [Wrong word]_[Noun]{2} I like Britpop. British music: Radiohead, Coldplay. I really like David Bowie. And from the modern I don’t know. Do you know those small indie group Real Estate? It’s really small.
+
+I read books in English. This month I finished one book and I enjoyed it a lot. I finally found <those feeling>[GR];[Wrong pronoun]_[DemonstrPrn]{1} when <you may read the book>[GR];[Art]_[IndefArt]; {1} and feel the style of it. And <you not necessary have to> [GR]; [Auxiliary]_[MisAux]; {1}/[LEX]; [Word formation]_[Adv] <go to the dictionary> [LEX]; [Wrong word]_[Verb]{2} all the time. Also, I <watch movie> [GR]; [Art]_[IndefArt] {1} with subtitles, I watch it in original. And now I am attending <those course>[GR];[Wrong pronoun]_[DemonstrPrn]; {1} in Yandex Practicum.
+
+Hello! I am the new project manager on this project. Nice to meet you. Let me tell you about my previous work experience a little bit. I came <from big company> [GR]; [Art]_[IndefArt]; {1}  which <sells the books>[GR];[Art]_[DefArt]; {1}. In Russia it’s the biggest retail chain: about 800 shops. We sell books. And <we the leader of market>[GR];[Word order]_[Missing verb]{1}. And my role there was a product manager. I was <responsible for the customer experience>[GR];[Art]_[IndefArt] {1}  in purchasing process and <in process of>[GR]; [Art]_[DefArt]{1} <searching some books> [GR];[Prep]_[After verb]{1}. We developed a mobile app. Me and my team we had a really comfy environment. And for me it is essential to have <those environment>[GR]; [Wrong pronoun]_[DemonstrPrn]{1} of trust and coworking here in this position as well. And to tell you the truth I have a <deep experience>[LEX]; [Wrong word]_[Noun]{2}. I started my career about 15 years ago as assistant analyst. And after that I became a marketing analyst and after that <a head of company>[GR];[Art]_[DefArt]{1}. So we can <speak at some kind of maybe the same languages>[GR];[Prep]_[After verb]; {1}/LEX]; [Redundancy]{2}. So, <that’s briefly what did I do.> [GR]; [Word order]_[Reported question]{2} How long have you been here?
+
+<That really great career path.>[GR]; [Art]_[IndefArt] {1} I hope we are going to make some good product here together. So, I <have a great expectation> [GR]; [Singular/plural noun]{1} from our work.
+
+So, let’s just go to our agenda.
+
+Actually I sound more confident than I usually do on those meetings.
+
+<I am getting nervous all the time.>[GR]; [Tense]_[PresS]{1} Well of course I understand that it’s not a real situation.
+
+Can you tell me something about your scope of work related with the products?
+
+You mentioned personal interview. You mean the personal interview with the customer of our product?
+
+Okay that’s wonderful. This is quantitative and qualitative research.
+
+<And how often this research interview happen?> [GR]; [Word order]_[Question]
+
+That’s wonderful. That’s a great contribution. Because you know I believe that feedback from our customers is the main resource. And only by that we can improve our product.
+
+So I would definitely watch those reports, I am really interested in that. Thank you for that, share them with me.
+
+Would you <point on some problems>[GR]; [Prep]_[After verb]{1} ?
+
+Thanks for sharing it with me. I can see those problems and I can assure you that <I will considering it> [GR]; [Tense]_[FutureS]{2} in our current work. But <I can not swear it> [LEX]; [Wrong word]_[Verb]{1}, because you know there are some circumstances because of which product or project managers have their own reasons considering the business and their bosses sometimes. But I try to do my best, because <I know what are you talking about> [GR]; [Word order]_[Reported question]{2}. <I was at the situation> [GR]; [Prep]_[Function]{1}, a lot of times. When you work in a high productive company with a lot of sales. There is always <a mount of features> [LEX]; [Wrong word]_[Noun]{2} we need to develop. It wasn’t really comfortable, because the quality of … suffer because of that. So, I had it in my experience. And I will do my best in my sphere of responsibility to improve our future job. Well, thank you. Maybe you can <point on some problems our user facing> [GR]; [Prep]_[After verb]{1} [GR]; [Word order]_[Missing verb]{1} with the product?
+
+Yes sure, <those situations are really fresh one> [GR]; [Subject-verb agreement]{2}, it happened a couple of months ago. <We were at the process of migration on backend platform>[GR]; [Prep]_[Function]{1} . So we have a big product: <we sell the books.> [GR]; [Art]_[ZeroArt] {1} And <me and my team was responsible>[GR]; [Subject-verb agreement]{1} for developing a mobile application. It was the time when we worked on new API version and <it was a lot of bugs and mistakes in it> [LEX]; [Wrong word]_[Verb]{2} and our team was a kind of frustrated and tired of it and <we can not came to the launch process>[GR]; [Modal verb]_[Form]{2}, because we were fixing it all the time. <And founding new one> [LEX]; [Wrong word]_[Verb]{2}. And <finally we was ready> [GR]; [Subject-verb agreement]{1} to present a beta test for 20000 of users. And we made it, and we found some mistake considering the personal data. <When a customer delete a bookmark from the list> [GR]; [Tense]_[PastS]{2}, the whole list was deleted. My team was really tired. And they offered me to wait until we release new version. So, <those mistake may leave in the product> [GR]; [Wrong pronoun]_[DemonstrPrn]{1}/ [GR]; [Passive Voice]{3} for the couple of days. And we discussed it. <I wasn’t agree with that>[GR]; [Auxiliary]{2}, because it’s beta test and for our customer it is a real product. And our customers they really like their experience of the product. <They collect the bookmarks and lose it> [GR]; [Wrong pronoun]_[PersonPrn]{1} without opportunity to get it back - it really hurt. I collected some data about <how many those situations already happened>[GR]; [Prep]_[Missing prep]{1}/[GR]; [Tense]_[PastPerf]{1}. How many users deleted all their bookmarks and it was about 20 users and it happens once in 3-4 hours, <so longer we wait, the more clients will have this experience.>[GR]; [Art]_[DefArt]{1} The second step I came to our customer support team and asked for a feedback for our beta application and <they tell me about those frustration.>[GR]; [Tense]_[PastS]{2} Customer was unhappy about it and I can understand them so <we made a meeting> [LEX]; [Wrong word]_[Noun] {1} which was to make the decision about the situation, because <I wasn’t agree>[GR]; [Auxiliary]{2}  with this decision <to leave it on couple of days.>[GR]; [Prep]_[After verb]{1}  And <I let my team to decide>[GR]; [Infinitive]{1} what we should do with it. We blocked the possibility to delete even one bookmark. It’s less stress for the customer. I think this is <an example of motivation people.> [LEX]; [Wrong word]_[Noun] {1}  I appreciate work-life balance. <We made a patch for a couple of hours>[GR]; [Prep]_[Function] {3} and our customer was happy.
